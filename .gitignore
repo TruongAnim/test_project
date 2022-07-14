@@ -5,3 +5,6 @@ pyvenv.cfg
 
 #Temp file
 /.idea
+
+#Test file
+*.hello
