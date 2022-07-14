@@ -1,0 +1,7 @@
+#Venv
+/Lib
+/Scripts
+pyvenv.cfg
+
+#Temp file
+/.idea
